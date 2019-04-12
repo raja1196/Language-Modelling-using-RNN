@@ -1,4 +1,4 @@
-# Project 4 - Recurrent Neural Network (RNN)
+# Language-Modelling-using-RNN
 
 - This project contains two parts: 1. Design LSTM cells for counting digits in a sequence; 2. Language modeling using RNN with LSTM units.
 
